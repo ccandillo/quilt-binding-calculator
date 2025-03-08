@@ -114,9 +114,9 @@ export default function PrivacyPage() {
                 If you have any questions about this Privacy Policy, please contact us at:
               </p>
               <p>
-                <a href="mailto:info@quiltbindingcalculator.com" className="text-[#FF5722] hover:underline">
-                  info@quiltbindingcalculator.com
-                </a>
+                <span className="text-[#FF5722]">
+                  info at bindingcalculatorquilt.com
+                </span>
               </p>
             </div>
           </div>
