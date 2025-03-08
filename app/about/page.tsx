@@ -26,8 +26,8 @@ export default function AboutPage() {
               <div className="relative h-64 w-full md:w-64 md:h-full">
                 <Image
                   className="object-cover"
-                  src="/images/quilt-stacked.jpg"
-                  alt="Stacked quilts"
+                  src="/images/measuring-tape-thread-sissors.jpg"
+                  alt="Measuring tape, thread, and scissors"
                   fill
                   sizes="(max-width: 768px) 100vw, 33vw"
                 />
