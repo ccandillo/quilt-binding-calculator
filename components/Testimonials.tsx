@@ -46,9 +46,9 @@ export default function Testimonials() {
                     <p className="text-sm font-medium text-[#FF5722]">Testimonial</p>
                     <div className="block mt-2">
                       <p className="text-xl font-semibold text-gray-900">
-                        <span className="text-3xl leading-none text-[#5D4037]">"</span>
+                        <span className="text-3xl leading-none text-[#5D4037]">&ldquo;</span>
                         {testimonial.content}
-                        <span className="text-3xl leading-none text-[#5D4037]">"</span>
+                        <span className="text-3xl leading-none text-[#5D4037]">&rdquo;</span>
                       </p>
                     </div>
                   </div>

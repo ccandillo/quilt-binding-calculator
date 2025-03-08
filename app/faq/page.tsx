@@ -12,7 +12,7 @@ export default function FAQPage() {
   const faqItems = [
     {
       question: "What is the standard binding for a quilt?",
-      answer: "The standard binding for a quilt is typically 2.5 inches wide, double-fold binding. This width works well for most quilts and provides enough fabric to wrap around the edge of the quilt and be securely stitched down. Regular binding (cut parallel to the selvage) is most common for quilts with straight edges, while bias binding (cut at a 45° angle) is preferred for quilts with curved edges."
+      answer: "The standard binding for a quilt is typically 2.5 inches wide, double-fold binding. This width works well for most quilts and provides enough fabric to wrap around the edge of the quilt and be securely stitched down. Regular binding (cut parallel to the selvage) is most common for quilts with straight edges, while bias binding (cut at a 45&deg; angle) is preferred for quilts with curved edges."
     },
     {
       question: "How wide to cut strips for quilt binding?",
@@ -32,15 +32,15 @@ export default function FAQPage() {
     },
     {
       question: "What's the difference between regular and bias binding?",
-      answer: "Regular binding is cut parallel to the selvage (along the grain) of the fabric. It's less stretchy and works well for quilts with straight edges. Bias binding is cut at a 45° angle to the selvage, giving it more stretch and flexibility. This makes it ideal for quilts with curved edges. Bias binding also tends to be more durable as the bias cut distributes wear more evenly across the binding."
+      answer: "Regular binding is cut parallel to the selvage (along the grain) of the fabric. It&apos;s less stretchy and works well for quilts with straight edges. Bias binding is cut at a 45&deg; angle to the selvage, giving it more stretch and flexibility. This makes it ideal for quilts with curved edges. Bias binding also tends to be more durable as the bias cut distributes wear more evenly across the binding."
     },
     {
       question: "How do I join binding strips together?",
-      answer: "The most common method for joining binding strips is with a diagonal seam. Place two strips right sides together at a 90° angle, with the end of one strip overlapping the end of the other. Sew from corner to corner, then trim the excess fabric to a 1/4 inch seam allowance and press open. This diagonal join distributes bulk and is less visible in the finished binding."
+      answer: "The most common method for joining binding strips is with a diagonal seam. Place two strips right sides together at a 90&deg; angle, with the end of one strip overlapping the end of the other. Sew from corner to corner, then trim the excess fabric to a 1/4 inch seam allowance and press open. This diagonal join distributes bulk and is less visible in the finished binding."
     },
     {
       question: "How do I finish the ends of my binding?",
-      answer: "To finish binding ends, leave about 8 inches of binding unattached. Overlap the starting tail by about 2.5 inches (or the width of your binding), then trim the ending tail. Open both ends and place them right sides together at a 90° angle, just like when joining strips. Mark a diagonal line, sew along it, trim excess, and press open. Then finish attaching the binding to complete your quilt."
+      answer: "To finish binding ends, leave about 8 inches of binding unattached. Overlap the starting tail by about 2.5 inches (or the width of your binding), then trim the ending tail. Open both ends and place them right sides together at a 90&deg; angle, just like when joining strips. Mark a diagonal line, sew along it, trim excess, and press open. Then finish attaching the binding to complete your quilt."
     }
   ];
 

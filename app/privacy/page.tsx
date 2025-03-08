@@ -23,7 +23,7 @@ export default function PrivacyPage() {
           <div className="p-8">
             <div className="prose prose-brown max-w-none">
               <p>
-                This Privacy Policy describes how Quilt Binding Calculator ("we," "us," or "our") collects, uses, and shares information when you use our website (the "Service").
+                This Privacy Policy describes how Quilt Binding Calculator (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) collects, uses, and shares information when you use our website (the &ldquo;Service&rdquo;).
               </p>
               
               <h2>Information We Collect</h2>

@@ -35,7 +35,7 @@ export default function CalculatorPage() {
               
               <h3 className="text-lg font-medium text-[#5D4037] mb-2">Bias Binding</h3>
               <p className="text-gray-600 mb-4">
-                Bias binding is cut at a 45° angle to the selvage of the fabric. This gives the binding more 
+                Bias binding is cut at a 45&deg; angle to the selvage of the fabric. This gives the binding more 
                 flexibility and stretch, making it ideal for quilts with curved edges. Bias binding is also more 
                 durable as the bias cut distributes wear more evenly.
               </p>

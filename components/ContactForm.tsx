@@ -116,7 +116,7 @@ export default function ContactForm() {
                 value={message}
                 onChange={(e) => setMessage(e.target.value)}
                 className="mt-1 block w-full border border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-[#8D6E63] focus:border-[#8D6E63]"
-                placeholder="How can we help you?"
+              placeholder="How can we help you?"
               />
             </div>
             
