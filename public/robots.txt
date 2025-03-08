@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bindingcalculatorquilt.com/sitemap.xml
