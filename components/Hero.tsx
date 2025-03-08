@@ -33,10 +33,12 @@ export default function Hero() {
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
                   <Link
-                    href="/calculator"
+                    href="https://github.com/ccandillo/quilt-binding-calculator"
                     className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-[#5D4037] hover:bg-[#4E342E] md:py-4 md:text-lg md:px-10"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
-                    Try Calculator
+                    GitHub
                   </Link>
                 </div>
                 <div className="mt-3 sm:mt-0 sm:ml-3">
