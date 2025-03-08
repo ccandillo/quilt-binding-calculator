@@ -38,7 +38,7 @@ export default function Hero() {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    GitHub
+                    Try Our Calculator
                   </Link>
                 </div>
                 <div className="mt-3 sm:mt-0 sm:ml-3">
